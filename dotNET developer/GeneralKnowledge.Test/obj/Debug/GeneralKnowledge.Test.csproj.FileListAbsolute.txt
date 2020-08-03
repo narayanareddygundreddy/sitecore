@@ -1,0 +1,12 @@
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.exe.config
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.exe
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\GeneralKnowledge.Test.App.pdb
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csprojAssemblyReference.cache
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.Resources.resources
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.GenerateResource.cache
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.CoreCompileInputs.cache
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.exe
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.App.pdb
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\bin\Debug\Newtonsoft.Json.xml
+D:\Reddy\sitecore\wetransfer-8847b7\dotNET developer (1)\GeneralKnowledge.Test\obj\Debug\GeneralKnowledge.Test.csproj.CopyComplete
